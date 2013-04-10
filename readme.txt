@@ -37,7 +37,7 @@ The template tag uses the exact same HTML as the shortcode so can be modified ac
 
 = Building your own Query =
 
-To build your own query using <a href="https://codex.wordpress.org/Class_Reference/WP_Query"">WP_Query</a> you can use the `meta_key` parameter with a value of `edd_feature_download`. The following example builds a simple unordered list with all the featured downloads.
+To build your own query using [WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query/ "WP_Query") you can use the `meta_key` parameter with a value of `edd_feature_download`. The following example builds a simple unordered list with all the featured downloads.
 
     <?php 
 
