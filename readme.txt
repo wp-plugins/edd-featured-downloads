@@ -7,11 +7,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides a intiutive interface and functionality for managing featured downloads.
+A plugin for Easy Digital Downloads so you can easily feature your downloads
 
 == Description ==
 
-This plugin is aimed at developers/clients who need to show a list of their featured downloads. 
+This plugin requires [Easy Digital Downloads](http://wordpress.org/extend/plugins/easy-digital-downloads/ "Easy Digital Downloads"). It's aimed at developers/clients who need to show a list of featured downloads. 
 
 1. Provides a template tag so finely-tuned placement of featured downloads in your theme is possible. 
 1. Provides a shortcode which will simply list all the featured downloads, without the need to enter any IDs.
