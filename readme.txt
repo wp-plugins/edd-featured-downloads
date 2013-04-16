@@ -1,5 +1,6 @@
 === EDD Featured Downloads ===
 Contributors: sumobi
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFUPMPEZPGW7L
 Tags: easy digital downloads, digital downloads, e-downloads, edd, featured downloads, featured
 Requires at least: 3.3
 Tested up to: 3.5.1
