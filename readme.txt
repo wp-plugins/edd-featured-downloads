@@ -63,6 +63,20 @@ To build your own query using [WP_Query](https://codex.wordpress.org/Class_Refer
 
     <?php endif; wp_reset_postdata(); ?>
 
+**Looking for a free theme for Easy Digital Downloads?**
+
+[http://sumobi.com/shop/shop-front/](http://sumobi.com/shop/shop-front/ "Shop Front")
+
+Shop Front was designed to be simple, responsive and lightweight. It has only the bare essentials, making it the perfect starting point for your next digital e-commerce store. It’s also easily extensible with a growing collection of add-ons to enhance the functionality and styling.
+
+**Stay up to date**
+
+*Become a fan on Facebook* 
+[http://www.facebook.com/pages/Sumobi/411698702220075](http://www.facebook.com/pages/Sumobi/411698702220075 "Facebook")
+
+*Follow me on Twitter* 
+[http://twitter.com/sumobi_](http://twitter.com/sumobi_ "Twitter")
+
 == Installation ==
 
 1. Upload entire `edd-featured-downloads` to the `/wp-content/plugins/` directory, or just upload the ZIP package via 'Plugins > Add New > Upload' in your WP Admin
